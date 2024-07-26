@@ -439,7 +439,7 @@ a.icon {
   height: 60vh !important;
   min-height: 520px;
   padding-top: 150px !important;
-  width: 60vw;
+  min-width: 100vw;
 }
 .header-three {
   background: url("../images/header-three-bg.jpg") no-repeat;
